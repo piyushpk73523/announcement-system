@@ -3,7 +3,7 @@ Backend Setup
 1.Navigate to server directory:
 
 bash
-cd server
+cd backend
 
 2.Install dependencies:
 
