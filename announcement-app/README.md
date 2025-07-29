@@ -3,7 +3,7 @@ Frontend Setup
 1.Navigate to client directory:
 
 bash
-cd client
+cd announcement-app
 
 2.Install dependencies:
 
@@ -13,4 +13,4 @@ npm install
 3.Start development server:
 
 bash
-npm start
+npm run dev
